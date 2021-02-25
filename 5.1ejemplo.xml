@@ -21,5 +21,12 @@
         <editor> Dykinson</editor> 
         <isbn>978-84-9849-703-8</isbn> 
         <precio>12.00</precio> 
-    </libro> 
+    </libro>
+    <libro> 
+        <titulo> </titulo> 
+        <autor> </autor> 
+        <editor> </editor> 
+        <isbn></isbn> 
+        <precio></precio> 
+    </libro>  
 </libreria> 
